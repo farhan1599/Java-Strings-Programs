@@ -1,0 +1,71 @@
+5:01:28 Tab3 FinishNav428
+5:01:28 Tab3 PageLoad
+5:01:29 Tab3 StartNav429 #typed
+5:01:29 Tab3 FinishNav429
+5:01:29 Tab3 PageLoad
+5:01:30 Tab3 StartNav430 #typed
+5:01:30 Tab3 FinishNav430
+5:01:30 Tab3 PageLoad
+5:24:22 Tab16 StartNav431 #typed
+5:24:22 Tab16 FinishNav431
+5:24:22 Tab16 PageLoad
+5:24:25 Tab16 StartNav432 #typed
+5:24:25 Tab16 FinishNav432
+5:24:25 Tab16 PageLoad
+5:24:27 Tab16 StartNav433 #typed
+5:24:27 Tab16 FinishNav433
+5:24:27 Tab16 PageLoad
+5:24:27 Tab16 StartNav434 #typed
+5:24:27 Tab16 FinishNav434
+5:24:27 Tab16 PageLoad
+5:24:33 Tab16 StartNav435 #typed
+5:24:33 Tab16 FinishNav435
+5:24:33 Tab16 PageLoad
+5:24:35 Tab16 StartNav436 #typed
+5:24:35 Tab16 FinishNav436
+5:24:35 Tab16 PageLoad
+5:25:14 Tab3 StartNav437 #typed
+5:25:14 Tab3 FinishNav437
+5:25:14 Tab3 PageLoad
+5:25:31 Tab3 StartNav438 #typed
+5:25:31 Tab3 FinishNav438
+5:25:31 Tab3 PageLoad
+5:25:59 Tab3 StartNav439 #typed
+5:25:59 Tab3 FinishNav439
+5:25:59 Tab3 PageLoad
+5:29:14 Microsoft.NewBrowser_Popup
+5:29:14 Microsoft.BrowserList.AddBrowser
+5:29:14 Browser17 Insert active Tab17 at 0
+5:29:14 Tab17 StartNav440 #auto_toplevel
+5:29:14 Tab17 StartNav441 #typed
+5:29:14 Tab17 FinishNav441 ERR_ABORTED
+5:29:14 Tab17 StartNav442 #typed
+5:29:14 Tab17 FinishNav440
+5:29:14 Tab17 PageLoad
+5:29:15 Tab17 FinishNav442
+5:29:15 Tab17 PageLoad
+5:29:16 Tab17 StartNav443 #typed
+5:29:16 Tab17 FinishNav443
+5:29:16 Tab17 PageLoad
+5:29:20 Tab17 StartNav444 #typed
+5:29:20 Tab17 FinishNav444
+5:29:20 Tab17 PageLoad
+5:30:35 Tab17 StartNav445 #typed
+5:30:35 Tab17 FinishNav445
+5:30:35 Tab17 PageLoad
+5:30:35 Tab17 StartNav446 #typed
+5:30:35 Tab17 FinishNav446
+5:30:35 Tab17 PageLoad
+5:30:41 Tab17 StartNav447 #typed
+5:30:41 Tab17 FinishNav447
+5:30:41 Tab17 PageLoad
+5:30:42 Tab17 StartNav448 #typed
+5:30:42 Tab17 FinishNav448
+5:30:42 Tab17 PageLoad
+5:30:42 Tab17 StartNav449 #typed
+5:30:42 Tab17 FinishNav449
+5:30:42 Tab17 PageLoad
+5:45:42 Tab17 StartNav450 #typed
+5:45:42 Tab17 FinishNav450
+5:45:42 Tab17 PageLoad
+5:58:24 Microsoft.Shutdown.OnWindowClosing
